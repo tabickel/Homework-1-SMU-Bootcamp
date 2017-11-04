@@ -1,0 +1,158 @@
+body{
+  background-color: #D3D3D3;
+}
+.container{
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    float:left;height: 60px;
+    background-color: #666666;
+    border:8px solid;
+    border-color:#000066;
+    position: absolute;
+    left: 16px;
+    top:0px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+
+}
+#navigation {
+    position:absolute;
+    top: 2px;
+    right:2px;
+    width:30%;
+    background-color:#666666;
+    color:#000066;
+    height:35px;
+    text-align:center;
+    padding-top:15px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    border:8px solid;
+    border-color: #000066;
+}
+#navigation a {
+    font-size:28px;
+    padding-left:15px;
+    padding-right:15px;
+    color:#000066; 
+}
+#navigation a:hover {
+    color:blue;
+}
+.contact{
+  float: right;
+  border:8px solid;
+  border-color:#000066;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-left: 10px;
+  position: absolute;
+  right:35px;
+  top:165px;
+  background: #666666;
+
+}
+.image{
+  border:8px solid;
+  border-color:#000066;
+  float: left;
+  position: absolute;
+  left: 16px;
+  top:150px;
+  background:#000066;
+}
+
+h1 {
+  padding: 20px 0;
+  margin: 0;
+  margin-bottom: 20px;
+  font-size: 28px;
+  color: #000066;
+  text-align: center;
+}
+
+h2 {
+  font-size: 24px;
+  color:#000066;
+
+}
+h3{
+  font-size: 24px;
+  color:#000066;
+  position: relative;
+  left:400px;
+}
+h4{
+  color:#000066
+}
+footer{
+  background-color: #666666
+  height:200px;
+  width:1500px;
+  background: #666666;
+  padding: 25px;
+  box-sizing: border-box;
+  text-align: center;
+  color:#000066;
+  border:8px solid;
+  border-color: #000066;
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+}
+.aboutme{
+  font-family:'Helvetica Neue', sans-serif;
+  color:#000066;
+  font-size: 20px;
+  position:absolute;
+  bottom: 150px;
+  width: 300px;
+  border:8px solid;
+  border-color: #000066;
+  padding: 25px;
+  margin: 25px;
+  position: absolute;
+  right:500px;
+  bottom:175px;
+  background: #666666;
+}
+.TA1 {
+    height: 40px;
+    width: 400px;
+    position: relative;
+  left:400px;
+}
+.TA2{
+  height: 40px;
+    width: 400px;
+    position: relative;
+  left:400px;
+}
+.TA3{
+  height: 400px;
+    width: 400px;
+    position: relative;
+  left:400px;
+}
+.moto{
+  float:left;position: absolute;
+    right:500px;
+    top: 20%;
+    width: 100%;
+    text-align: center
+}
+.tech{
+ float:center;position: absolute;
+    right: 250px;
+    top: 20%;
+    width: 100%;
+    text-align: center   
+}
+.Abstract{position: absolute;
+    right: 0px;
+    top: 20%;
+    width: 100%;
+    text-align: center;
+}
+
